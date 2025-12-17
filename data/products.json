@@ -1,0 +1,38 @@
+[
+    {
+        "id": "69425d7764b10",
+        "name": "DOGW",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 135000,
+        "image": "assets\/1765956983_STORY7.jpg",
+        "stock_status": "READY STOCK",
+        "status_color": "green"
+    },
+    {
+        "id": "69425dc9ddf00",
+        "name": "TOWN",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 135000,
+        "image": "assets\/1765957065_STORY 4.jpg",
+        "stock_status": "LOW STOCK",
+        "status_color": "red"
+    },
+    {
+        "id": "69425ddbe2729",
+        "name": "LADS",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 135000,
+        "image": "assets\/1765957083_STORY GDBLSS BACK.jpg",
+        "stock_status": "SOLD OUT",
+        "status_color": "gray"
+    },
+    {
+        "id": "6942664aa1983",
+        "name": "TDOG",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 135000,
+        "image": "assets\/1765959242_STORY DOGT.jpg",
+        "stock_status": "PREORDER",
+        "status_color": "orange"
+    }
+]
